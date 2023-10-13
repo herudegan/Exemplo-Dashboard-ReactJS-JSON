@@ -1,0 +1,517 @@
+{
+    "cermaq": [
+        {
+            "nome": "cermaq",
+            "melhores_vendedores": [
+                {
+                    "mes": "Março", 
+                    "nome": "Lucas", 
+                    "valor": 5123, 
+                    "top": 8, 
+                    "left": "", 
+                    "size": "24px", 
+                    "top_valor": "11.5vh", 
+                    "top_nome": "8.5vh", 
+                    "width": "0.05vw", 
+                    "height": "8.5vh", 
+                    "top_div": "8vh", 
+                    "left_div": "13.5vw"
+                },
+                {
+                    "mes": "Abril", 
+                    "nome": "Vinicius", 
+                    "valor": 3455, 
+                    "top": 4, 
+                    "left": "14vw", 
+                    "size": "20px", 
+                    "top_valor": "7.5vh", 
+                    "top_nome": "5vh", 
+                    "width": "5.5vw", 
+                    "height": "0.05vh", 
+                    "top_div": "12vh", 
+                    "left_div": "14vw"
+                },
+                {
+                    "mes": "Maio", "nome": "Sérgio",
+                    "valor": 6123, 
+                    "top": 12, 
+                    "left": "14vw", 
+                    "size": "20px", 
+                    "top_valor": "15.5vh", 
+                    "top_nome": "13vh", 
+                    "width": "5.5vw", 
+                    "height": "0.05vh", 
+                    "top_div": "20vh", 
+                    "left_div": "14vw"
+                }
+            ],
+            "cards": [
+                {
+                    "pos": "5.1vw", 
+                    "label": "Contas a Receber Hoje", 
+                    "val": "0,00"
+                },
+                {
+                    "pos": "29.1vw", 
+                    "label": "Cartões a Receber Hoje", 
+                    "val": "16.008,00"
+                },
+                {
+                    "pos": "53.1vw", 
+                    "label": "Contas a Pagar Hoje", 
+                    "val": "7.152,00"
+                },
+                {
+                    "pos": "77.1vw", 
+                    "label": "Custo de Estoque", 
+                    "val": "292.183,00"
+                }
+            ],
+            "cards2": [
+                {
+                    "pos": "28vh", 
+                    "label": "Ticket Médio 6 Meses", 
+                    "val": "134,00"
+                },
+                {
+                    "pos": "44vh", 
+                    "label": "Média Venda mensal 6 Meses", 
+                    "val": "864.764,50"
+                }
+            ],
+            "cards4": [
+                {
+                    "pos": "95vh", 
+                    "label": "Vendas Itens", 
+                    "val1": "0,00", 
+                    "val2": "6.137,00"
+                },
+                {
+                    "pos": "110vh", 
+                    "label": "Vendas Combustíveis", 
+                    "val1": "0,00", 
+                    "val2": "337.874,00"
+                },
+                {
+                    "pos": "125vh", 
+                    "label": "Total de Vendas", 
+                    "val1": "0,00", 
+                    "val2": "331.488,00"
+                }
+            ],
+            "cards5": [
+                {
+                    "pos": "95vh", 
+                    "label": "Contas a Receber em Aberto", 
+                    "val": "353.036,00"
+                },
+                {
+                    "pos": "110vh", 
+                    "label": "Cartões a Receber", 
+                    "val": "296.321,00"
+                },
+                {
+                    "pos": "125vh", 
+                    "label": "Contas a Pagar em Aberto", 
+                    "val": "2.588.108,00"
+                }
+
+            ],
+            "inadimplencia": [
+                {
+                    "tempo": "15 dias",
+                    "valor": 64234
+                },
+                {
+                    "tempo": "30 dias",
+                    "valor": 30000
+                },
+                {
+                    "tempo": "30+ dias",
+                    "valor": 197637
+                }
+            ],
+            "entradasxsaidas": [
+                {
+                    "nome": "Entradas",
+                    "valor": 320015
+                },
+                {
+                    "nome": "Saídas",
+                    "valor": 30000
+                }
+            ],
+            "semanas": [
+                {
+                    "dia": "Segunda",
+                    "vendas_antigas": 35000,
+                    "vendas_novas": 30000
+                },
+                {
+                    "dia": "Terça",
+                    "vendas_antigas": 38000,
+                    "vendas_novas": 42000
+                },
+                {
+                    "dia": "Quarta",
+                    "vendas_antigas": 25000,
+                    "vendas_novas": 36000
+                },
+                {
+                    "dia": "Quinta",
+                    "vendas_antigas": 30000,
+                    "vendas_novas": 45000
+                },
+                {
+                    "dia": "Sexta",
+                    "vendas_antigas": 50000,
+                    "vendas_novas": 40000
+                }
+            ],
+            "bandeiras": [
+                {
+                    "nome": "Mastercard (QTDE)",
+                    "vendas": 1700
+                },
+                {
+                    "nome": "Elo (QTDE)",
+                    "vendas": 1000
+                },
+                {
+                    "nome": "Visa (QTDE)",
+                    "vendas": 1500
+                },
+                {
+                    "nome": "Maestro (QTDE)",
+                    "vendas": 500
+                },
+                {
+                    "nome": "American Express (QTDE)",
+                    "vendas": 600
+                }
+            ],
+            "pagamentos": [
+                {
+                    "nome": "Pix (QTDE)",
+                    "vendas": 2000
+                },
+                {
+                    "nome": "Cartão de Crédito (QTDE)",
+                    "vendas": 3000
+                },
+                {
+                    "nome": "Cartão de Débito (QTDE)",
+                    "vendas": 2300
+                },
+                {
+                    "nome": "Dinheiro (QTDE)",
+                    "vendas": 1500
+                }
+            ],
+            "vendas": [
+                {
+                    "dia": 6,
+                    "media": 1
+                },
+                {
+                    "dia": 7,
+                    "media": 3
+                },
+                {
+                    "dia": 8,
+                    "media": 2
+                },
+                {
+                    "dia": 9,
+                    "media": 7
+                },
+                {
+                    "dia": 10,
+                    "media": 4
+                },
+                {
+                    "dia": 11,
+                    "media": 10
+                },
+                {
+                    "dia": 12,
+                    "media": 6
+                },
+                {
+                    "dia": 13,
+                    "media": 4.5
+                },
+                {
+                    "dia": 14,
+                    "media": 15
+                },
+                {
+                    "dia": 15,
+                    "media": 1
+                },
+                {
+                    "dia": 16,
+                    "media": 2
+                }
+            ]
+        }
+    ],
+    "seo": [
+        {
+            "nome": "seo",
+            "melhores_vendedores": [
+                {
+                    "mes": "Dezembro", 
+                    "nome": "José", 
+                    "valor": 3124, 
+                    "top": 8, 
+                    "left": "", 
+                    "size": "24px", 
+                    "top_valor": "11.5vh", 
+                    "top_nome": "8.5vh", 
+                    "width": "0.05vw", 
+                    "height": "8.5vh", 
+                    "top_div": "8vh", 
+                    "left_div": "13.5vw"
+                },
+                {
+                    "mes": "Novembro", 
+                    "nome": "Enzo", 
+                    "valor": 8941, 
+                    "top": 4, 
+                    "left": "14vw", 
+                    "size": "20px", 
+                    "top_valor": "7.5vh", 
+                    "top_nome": "5vh", 
+                    "width": "5.5vw", 
+                    "height": "0.05vh", 
+                    "top_div": "12vh", 
+                    "left_div": "14vw"
+                },
+                {
+                    "mes": "Outubro", 
+                    "nome": "Kauã",
+                    "valor": 1234, 
+                    "top": 12, 
+                    "left": "14vw", 
+                    "size": "20px", 
+                    "top_valor": "15.5vh", 
+                    "top_nome": "13vh", 
+                    "width": "5.5vw", 
+                    "height": "0.05vh", 
+                    "top_div": "20vh", 
+                    "left_div": "14vw"
+                }
+            ],
+            "cards": [
+                {
+                    "pos": "5.1vw", 
+                    "label": "Contas a Receber Hoje", 
+                    "val": "0,00"
+                },
+                {
+                    "pos": "29.1vw", 
+                    "label": "Cartões a Receber Hoje", 
+                    "val": "25.137,00"
+                },
+                {
+                    "pos": "53.1vw", 
+                    "label": "Contas a Pagar Hoje", 
+                    "val": "14.742,00"
+                },
+                {
+                    "pos": "77.1vw", 
+                    "label": "Custo de Estoque", 
+                    "val": "530.233,00"
+                }
+            ],
+            "cards2": [
+                {
+                    "pos": "28vh", 
+                    "label": "Ticket Médio 6 Meses", 
+                    "val": "230,00"
+                },
+                {
+                    "pos": "44vh", 
+                    "label": "Média Venda mensal 6 Meses", 
+                    "val": "920.124,50"
+                }
+            ],
+            "cards4": [
+                {
+                    "pos": "95vh", 
+                    "label": "Vendas Itens", 
+                    "val1": "0,00", 
+                    "val2": "3.337,00"
+                },
+                {
+                    "pos": "110vh", 
+                    "label": "Vendas Combustíveis", 
+                    "val1": "0,00", 
+                    "val2": "500.364,00"
+                },
+                {
+                    "pos": "125vh", 
+                    "label": "Total de Vendas", 
+                    "val1": "0,00", 
+                    "val2": "250.123,00"
+                }
+            ],
+            "cards5": [
+                {
+                    "pos": "95vh", 
+                    "label": "Contas a Receber em Aberto", 
+                    "val": "123.612,00"
+                },
+                {
+                    "pos": "110vh", 
+                    "label": "Cartões a Receber", 
+                    "val": "345.312,00"
+                },
+                {
+                    "pos": "125vh", 
+                    "label": "Contas a Pagar em Aberto", 
+                    "val": "3.700.208,00"
+                }
+
+            ],
+            "inadimplencia": [
+                {
+                    "tempo": "15 dias",
+                    "valor": 35000
+                },
+                {
+                    "tempo": "30 dias",
+                    "valor": 15000
+                },
+                {
+                    "tempo": "30+ dias",
+                    "valor": 150000
+                }
+            ],
+            "entradasxsaidas": [
+                {
+                    "nome": "Entradas",
+                    "valor": 723912
+                },
+                {
+                    "nome": "Saídas",
+                    "valor": 139023
+                }
+            ],
+            "semanas": [
+                {
+                    "dia": "Segunda",
+                    "vendas_antigas": 25000,
+                    "vendas_novas": 40000
+                },
+                {
+                    "dia": "Terça",
+                    "vendas_antigas": 32000,
+                    "vendas_novas": 38000
+                },
+                {
+                    "dia": "Quarta",
+                    "vendas_antigas": 25000,
+                    "vendas_novas": 40000
+                },
+                {
+                    "dia": "Quinta",
+                    "vendas_antigas": 25000,
+                    "vendas_novas": 30000
+                },
+                {
+                    "dia": "Sexta",
+                    "vendas_antigas": 60000,
+                    "vendas_novas": 50000
+                }
+            ],
+            "bandeiras": [
+                {
+                    "nome": "Mastercard (QTDE)",
+                    "vendas": 2500
+                },
+                {
+                    "nome": "Elo (QTDE)",
+                    "vendas": 900
+                },
+                {
+                    "nome": "Visa (QTDE)",
+                    "vendas": 850
+                },
+                {
+                    "nome": "Maestro (QTDE)",
+                    "vendas": 1000
+                },
+                {
+                    "nome": "American Express (QTDE)",
+                    "vendas": 1300
+                }
+            ],
+            "pagamentos": [
+                {
+                    "nome": "Pix (QTDE)",
+                    "vendas": 3000
+                },
+                {
+                    "nome": "Cartão de Crédito (QTDE)",
+                    "vendas": 4000
+                },
+                {
+                    "nome": "Cartão de Débito (QTDE)",
+                    "vendas": 2500
+                },
+                {
+                    "nome": "Dinheiro (QTDE)",
+                    "vendas": 3400
+                }
+            ],
+            "vendas": [
+                {
+                    "dia": 6,
+                    "media": 20
+                },
+                {
+                    "dia": 7,
+                    "media": 30
+                },
+                {
+                    "dia": 8,
+                    "media": 20
+                },
+                {
+                    "dia": 9,
+                    "media": 70
+                },
+                {
+                    "dia": 10,
+                    "media": 40
+                },
+                {
+                    "dia": 11,
+                    "media": 100
+                },
+                {
+                    "dia": 12,
+                    "media": 60
+                },
+                {
+                    "dia": 13,
+                    "media": 40.5
+                },
+                {
+                    "dia": 14,
+                    "media": 150
+                },
+                {
+                    "dia": 15,
+                    "media": 10
+                },
+                {
+                    "dia": 16,
+                    "media": 20
+                }
+            ]
+        }
+    ]
+}
